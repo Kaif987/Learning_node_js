@@ -1,0 +1,19 @@
+{
+  "name": "node_projects",
+  "version": "1.0.0",
+  "description": "A repository which contains all the files I created while trying to learn node as a backend framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaif987/Learning_node_js.git"
+  },
+  "author": "Mohammad Kaif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaif987/Learning_node_js/issues"
+  },
+  "homepage": "https://github.com/Kaif987/Learning_node_js#readme"
+}
