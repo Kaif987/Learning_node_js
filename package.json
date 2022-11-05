@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Kaif987/Learning_node_js#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "formidable": "^2.0.1"
   }
 }
